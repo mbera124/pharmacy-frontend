@@ -1,0 +1,8 @@
+::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as desired */
+}
+
+/* Webkit scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #c8c1c3; /* Adjust the color of the scrollbar thumb */
+}
